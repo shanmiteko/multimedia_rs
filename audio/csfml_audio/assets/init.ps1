@@ -48,7 +48,7 @@ Try {
     echo ""
     echo "ffplay -ar 44100 -ac 2 -f s16le -i live.pcm"
 } Catch {
-    echo "FFmpeg Not Found"
+    echo "FFmpeg Not Found, Please Download That To Desktop"
 }
 
 pause
