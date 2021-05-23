@@ -1,0 +1,6 @@
+target/
+CSFML-2.5-windows-64-bit/
+assets/*.flv
+assets/*.pcm
+assets/*.yuv
+Cargo.lock

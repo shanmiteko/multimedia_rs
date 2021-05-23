@@ -1,0 +1,10 @@
+[package]
+name = "csfml_audio"
+version = "0.1.0"
+authors = ["shanmite <1971513084@qq.com>"]
+edition = "2018"
+build = "build.rs"
+
+[dependencies]
+sfml = "0.15.1"
+byteorder = "1.4.2"
